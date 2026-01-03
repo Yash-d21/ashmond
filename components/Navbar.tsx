@@ -28,7 +28,7 @@ const Navbar: React.FC = () => {
     }
   };
 
-  const logoUrl = "./4-removebg-preview.png";
+  const logoUrl = "./logo.jpg";
 
   return (
     <>
@@ -42,7 +42,7 @@ const Navbar: React.FC = () => {
             <img 
               src={logoUrl} 
               alt="Ashmond & Co." 
-              className={`transition-all duration-500 ${isScrolled ? 'h-[16px]' : 'h-[20px] md:h-[24px]'}`}
+              className={`transition-all duration-500 ${isScrolled ? 'h-[28px]' : 'h-[36px] md:h-[48px]'}`}
             />
           </a>
 

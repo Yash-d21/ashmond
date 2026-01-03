@@ -2,13 +2,13 @@
 import React from 'react';
 
 const Footer: React.FC = () => {
-  const logoUrl = "./4-removebg-preview.png";
+  const logoUrl = "./logo.jpg";
 
   return (
     <footer className="py-24 bg-background border-t border-gold-light/10">
       <div className="container mx-auto px-6 flex flex-col items-center text-center">
         <div className="mb-12">
-          <img src={logoUrl} alt="Ashmond & Co." className="h-[22px] md:h-[28px] mx-auto opacity-70 hover:opacity-100 transition-opacity" />
+          <img src={logoUrl} alt="Ashmond & Co." className="h-[36px] md:h-[48px] mx-auto opacity-70 hover:opacity-100 transition-opacity" />
         </div>
         
         <div className="flex flex-wrap justify-center gap-10 md:gap-16 mb-12">
