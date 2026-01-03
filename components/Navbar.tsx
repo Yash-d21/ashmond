@@ -28,7 +28,7 @@ const Navbar: React.FC = () => {
     }
   };
 
-  const logoUrl = "./logo.jpg";
+  const logoUrl = "/logo.jpg";
 
   return (
     <>

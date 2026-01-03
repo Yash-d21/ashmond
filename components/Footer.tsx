@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Footer: React.FC = () => {
-  const logoUrl = "./logo.jpg";
+  const logoUrl = "/logo.jpg";
 
   return (
     <footer className="py-24 bg-background border-t border-gold-light/10">

@@ -8,14 +8,14 @@ export const FOUNDERS: Founder[] = [
     role: "Managing Partner | CTO TARS Networks",
     bio: "Asvaan leads strategic problem framing and technical decision-making at Ashmond & Co., working closely with founders to clarify direction, evaluate trade-offs, and design execution paths that scale. He brings deep engineering judgment into strategy discussions, ensuring plans are structurally sound, technically feasible, and built for long-term growth. As CTO of TARS Networks, he oversees system architecture and delivery standards, translating complex ideas into reliable, production-ready platforms.",
     linkedIn: "https://www.linkedin.com/in/asvaan-zuhair-29b390336/",
-    image: "./My Photo-3 - Blazer.jpg .jpg"
+    image: "/My Photo-3 - Blazer.jpg .jpg"
   },
   {
     name: "Yashwanth Devulapally",
     role: "Managing Director | CEO TARS Networks",
     bio: "Yashwanth leads firm-level execution and strategic direction at Ashmond & Co., partnering with founders to set priorities, drive alignment, and turn strategy into action. He focuses on ensuring momentum, clarity, and accountability as decisions move from intent to outcome. As CEO of TARS Networks, he oversees end-to-end product and technology execution, making sure strategic vision becomes shipped systems, scalable products, and sustained operating performance.",
     linkedIn: "https://www.linkedin.com/in/yashwanth-devulapally/",
-    image: "./mememememe.jpg"
+    image: "/mememememe.jpg"
   }
 ];
 
